@@ -1,4 +1,0 @@
-[core]
-    remote = aios3
-['remote "aios3"']
-    url = s3://data-churn-for-mlops/churn-data
